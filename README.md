@@ -25,7 +25,7 @@ It provides a clean and modern interface with essential controls always within r
 ## Screenshot
 
 <p align="center">
-  <img src="screenshot.png" width="600" alt="Velo interface" />
+  <img src="screenshotvelo.png" width="600" alt="Velo interface" />
 </p>
 
 ## Features
