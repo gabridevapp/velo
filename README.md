@@ -22,6 +22,12 @@
 Velo is a free desktop screen recording app designed for fast, effortless capture without a complicated workflow.
 It provides a clean and modern interface with essential controls always within reach — including source selection, system audio, microphone input, and recording status.
 
+## Screenshot
+
+<p align="center">
+  <img src="screenshot.png" width="600" alt="Velo interface" />
+</p>
+
 ## Features
 
 - 🖥️ Record full screen or a specific window
